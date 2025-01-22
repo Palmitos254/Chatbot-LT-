@@ -1,0 +1,15 @@
+[ Console Commands ]
+
+- pip install --upgrade pip
+- pip install numpy
+- pip install nltk
+- pip install tensorflow // pip install --user tensorflow
+
+- pip install pyyaml h5py (x)
+
+pip version päivittämisen ja tensorflown kanssa oli ongelmia, mutta onnistui ennenpitkään --user komennon avulla.
+https://stackoverflow.com/questions/66322049/could-not-install-packages-due-to-an-oserror-winerror-2-no-such-file-or-direc
+
+
+
+https://www.oreilly.com/library/view/building-chatbots-with/9781484240960/html/461879_1_En_1_Chapter.xhtml

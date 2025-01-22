@@ -1,0 +1,26 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "greetings"],
+    "responses": ["Hello there!", "What can I do for you?"]
+    },
+
+    {"tag": "goodbye",
+    "patterns": ["bye", "see you later", "goodbye"],
+    "responses": ["Bye!", "Goodbye!"]
+    },
+
+    {"tag": "functionality",
+    "patterns": ["What can you do?", "What is your purpouse?"],
+    "responses": ["I'm a chatbot and I can converse with you!"]
+    },
+
+    {"tag": "age",
+    "patterns": ["How old are you?", "What is your age?"],
+    "responses": ["I was created November of 2023", "I'm not sure."]
+    },
+
+    {"tag": "name",
+    "patterns": ["what is your name?", "what should I call you?"],
+    "responses": ["I don't have a name, but you can call me Chatbot."]
+    }
+]}
